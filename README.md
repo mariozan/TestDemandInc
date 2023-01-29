@@ -1,7 +1,7 @@
 ## How to run
 
 - Clone the project
-- Create the .nv file and config your local enviroment data
+- Create the .env file and config your local enviroment data
 
 ## Run the following commands
 
